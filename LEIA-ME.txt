@@ -1,0 +1,14 @@
+COMO USAR
+1. Extraia este ZIP inteiro.
+2. Abra index.html no navegador. Mantenha a pasta assets junto dele.
+3. Para hospedar, envie index.html e assets para a raiz de uma hospedagem de sites estáticos. Não precisa de build, npm ou React.
+
+VÍDEO
+O player VTurb original foi reintegrado. O vídeo é transmitido pela internet e não está dentro do ZIP. Precisa de conexão e da disponibilidade/liberação do provedor para seu domínio. Se o navegador restringir o player em arquivo local, abra pela hospedagem ou por um servidor local (python -m http.server 8000, depois http://localhost:8000).
+
+CHECKOUTS E RASTREAMENTO
+Links originais preservados: completo R$19,90, oferta adicional R$15,00 e básico R$10,00. Confira se são os seus links antes de divulgar.
+Pixel UTMify original preservado: 6acfda07cf1164bde9219814.
+
+VALIDAÇÃO
+Arquivos de imagens, fonte e CSS baixados; caminhos locais e sintaxe JavaScript conferidos. O script do player e a lista de transmissão responderam durante a preparação. A reprodução audiovisual completa e o teste visual em navegador não puderam ser confirmados neste ambiente.
